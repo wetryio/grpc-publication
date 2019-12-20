@@ -1,6 +1,6 @@
 # grpc-publication
 
-Ce repository contient le code utilisé pour la publication dont le chemin suivra plus tard.
+Ce repository contient le code utilisé pour la publication de l'article programmez.
 
 ## Run me
 
